@@ -28,8 +28,18 @@ pip install -r requirements.txt
 
 ### 2. Set up the server
 
+You can run the server locally with the command below:
+
 ```shell
-python -m clip-server search_flow.yml
+python -m clip_server ./server/search_flow.yml
+```
+
+Or we provide one dockerfile and you can build with that:
+
+```shell
+docker build -t ps-clip-server -f ./server/server.Dockerfile ./server/
+
+docker run --name <Your Name> -p 61000:61000 ps-clip-server
 ```
 
 ### 3. Try the client

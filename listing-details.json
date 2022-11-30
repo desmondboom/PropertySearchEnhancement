@@ -1,0 +1,5170 @@
+{
+    "data": {
+        "listings": [
+            {
+                "id": "435662148",
+                "address": {
+                    "display": {
+                        "fullAddress": "2 Bedroom/20 Festival Place, Newstead, Qld 4006",
+                        "shortAddress": "2 Bedroom/20 Festival Place"
+                    },
+                    "suburb": "Newstead",
+                    "state": "Qld",
+                    "postcode": "4006"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-newstead-435662148"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/12f38d49ef4d155ffd1e75c39af38c275afb7768eaf3f471e7a023e90bf19079/image.png"
+                    }
+                },
+                "price": {
+                    "display": "BRAND NEW - From $900"
+                },
+                "bond": {
+                    "display": "$3,600"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435655932",
+                "address": {
+                    "display": {
+                        "fullAddress": "5 Cowan Street, Chermside, Qld 4032",
+                        "shortAddress": "5 Cowan Street"
+                    },
+                    "suburb": "Chermside",
+                    "state": "Qld",
+                    "postcode": "4032"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-qld-chermside-435655932"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/e123286e55edd32b0b662dbb8a7b2281cf738f85ddce0d5028f572949f2cdfd4/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$695 per week"
+                },
+                "bond": {
+                    "display": "$2,780"
+                },
+                "availableDate": {
+                    "display": "Available 17 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435678604",
+                "address": {
+                    "display": {
+                        "fullAddress": "602B/3 Broughton Street, Parramatta, NSW 2150",
+                        "shortAddress": "602B/3 Broughton Street"
+                    },
+                    "suburb": "Parramatta",
+                    "state": "NSW",
+                    "postcode": "2150"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-parramatta-435678604"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/533fdda53c587c31a9795e40729e28cf5ec062eebefe3f3140b70c45cb0d029d/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$480 pw"
+                },
+                "bond": {
+                    "display": "$1,920"
+                },
+                "availableDate": {
+                    "display": "Available 15 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435547487",
+                "address": {
+                    "display": {
+                        "fullAddress": "692 Graman Road, Inverell, NSW 2360",
+                        "shortAddress": "692 Graman Road"
+                    },
+                    "suburb": "Inverell",
+                    "state": "NSW",
+                    "postcode": "2360"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-inverell-435547487"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/180e63c4d801ba32cf07816e645c2445cf019b6148a957204cd713cff034da07/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$260 p.w."
+                },
+                "bond": {
+                    "display": "$1,040"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435579336",
+                "address": {
+                    "display": {
+                        "fullAddress": "146A/13-15 Hassall Street, Parramatta, NSW 2150",
+                        "shortAddress": "146A/13-15 Hassall Street"
+                    },
+                    "suburb": "Parramatta",
+                    "state": "NSW",
+                    "postcode": "2150"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-parramatta-435579336"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/874d76e4d2f9badce7f107bd6d6b07c6e6ca4539d6ffa34bf3c921d3ce0c7cf7/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$370 wk"
+                },
+                "bond": {
+                    "display": "$1,480"
+                },
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 0
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435656880",
+                "address": {
+                    "display": {
+                        "fullAddress": "4 Curtis St, Mountain Creek, Qld 4557",
+                        "shortAddress": "4 Curtis St"
+                    },
+                    "suburb": "Mountain Creek",
+                    "state": "Qld",
+                    "postcode": "4557"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-mountain+creek-435656880"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/4007c6327c914607153abcdf682ea85b47d6207027ade6fae1f271b2c2fe8380/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$750"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435673636",
+                "address": {
+                    "display": {
+                        "fullAddress": "1301/10 Burroway Road, Wentworth Point, NSW 2127",
+                        "shortAddress": "1301/10 Burroway Road"
+                    },
+                    "suburb": "Wentworth Point",
+                    "state": "NSW",
+                    "postcode": "2127"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-wentworth+point-435673636"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d3c6498729cbb040dd001316ea9ab6f7a9efa7a41e22262118239ced22631bce/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$720 per week"
+                },
+                "bond": {
+                    "display": "$2,880"
+                },
+                "availableDate": {
+                    "display": "Available 11 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435458367",
+                "address": {
+                    "display": {
+                        "fullAddress": "301/18 Longland Street, Newstead, Qld 4006",
+                        "shortAddress": "301/18 Longland Street"
+                    },
+                    "suburb": "Newstead",
+                    "state": "Qld",
+                    "postcode": "4006"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-newstead-435458367"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/582cf67964151731686c5d2cbd96f2d8315fe6f56078a894b615d4b5f1e75f5f/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "RARE 122m² CORNER APARTMENT  - $950"
+                },
+                "bond": {
+                    "display": "$3,800"
+                },
+                "availableDate": {
+                    "display": "Available 06 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435499395",
+                "address": {
+                    "display": {
+                        "fullAddress": "2505/9 Waterside Place, Docklands, Vic 3008",
+                        "shortAddress": "2505/9 Waterside Place"
+                    },
+                    "suburb": "Docklands",
+                    "state": "Vic",
+                    "postcode": "3008"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-docklands-435499395"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/319d991dd7919754165f452d16e1e75d5b4363a4e7f4e4ec10d4295bb2b8594c/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$800 per week"
+                },
+                "bond": {
+                    "display": "$3,200"
+                },
+                "availableDate": {
+                    "display": "Available 16 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "428439326",
+                "address": {
+                    "display": {
+                        "fullAddress": "2-4 Little Street, Dulwich Hill, NSW 2203",
+                        "shortAddress": "2-4 Little Street"
+                    },
+                    "suburb": "Dulwich Hill",
+                    "state": "NSW",
+                    "postcode": "2203"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-studio-nsw-dulwich+hill-428439326"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/7ecc82ae226cd8500e674eafa98bdc189e19e5ee0942dd46198a5d8ca1bf237a/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 per week"
+                },
+                "bond": {
+                    "display": "$840"
+                },
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435742904",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/13 Queen Street, Bellerive, Tas 7018",
+                        "shortAddress": "2/13 Queen Street"
+                    },
+                    "suburb": "Bellerive",
+                    "state": "Tas",
+                    "postcode": "7018"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-tas-bellerive-435742904"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/fd18266fc13df20a63e702ee022c6a577ddae92a6c72b318a9a4886281af7360/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$390 Per Week"
+                },
+                "bond": {
+                    "display": "$1,560"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435731048",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/117 Whitmore Street, Taringa, Qld 4068",
+                        "shortAddress": "2/117 Whitmore Street"
+                    },
+                    "suburb": "Taringa",
+                    "state": "Qld",
+                    "postcode": "4068"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-qld-taringa-435731048"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/61fa43d232c5bbb24dbc5057d0a07e8b2acebb5625c9c5d9f7f49915f1ceda38/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$500 per week"
+                },
+                "bond": {
+                    "display": "$2,000"
+                },
+                "availableDate": {
+                    "display": "Available 05 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "433870923",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/118 Frederick Street, Ashfield, NSW 2131",
+                        "shortAddress": "2/118 Frederick Street"
+                    },
+                    "suburb": "Ashfield",
+                    "state": "NSW",
+                    "postcode": "2131"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-ashfield-433870923"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d60d6ec6276ffc52097a3ba8a44e905d751aed5a8301bc5dba0c8c93df1a2dd3/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$420 Per Week"
+                },
+                "bond": {
+                    "display": "$1,680"
+                },
+                "availableDate": {
+                    "display": "Available 08 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435745964",
+                "address": {
+                    "display": {
+                        "fullAddress": "3/22 Wyuna Road, Caulfield North, Vic 3161",
+                        "shortAddress": "3/22 Wyuna Road"
+                    },
+                    "suburb": "Caulfield North",
+                    "state": "Vic",
+                    "postcode": "3161"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-vic-caulfield+north-435745964"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/0df458024982200c869953ac47c2f2c3d1d679ac1e8808e0409aa501c21b7da3/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 per week"
+                },
+                "bond": {
+                    "display": "$2,390"
+                },
+                "availableDate": {
+                    "display": "Available 29 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435688284",
+                "address": {
+                    "display": {
+                        "fullAddress": "9 Waratah Street, Aitkenvale, Qld 4814",
+                        "shortAddress": "9 Waratah Street"
+                    },
+                    "suburb": "Aitkenvale",
+                    "state": "Qld",
+                    "postcode": "4814"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-aitkenvale-435688284"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/af253335e84a31fe8fdba242bee98aee19de26b5cac9f669d37b23b464f05fc6/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$400 per week"
+                },
+                "bond": {
+                    "display": "$1,600"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 3
+                    }
+                }
+            },
+            {
+                "id": "410574219",
+                "address": {
+                    "display": {
+                        "fullAddress": "1/153 O'SHEA ESPLANADE, Machans Beach, Qld 4878",
+                        "shortAddress": "1/153 O'SHEA ESPLANADE"
+                    },
+                    "suburb": "Machans Beach",
+                    "state": "Qld",
+                    "postcode": "4878"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-other-qld-machans+beach-410574219"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/0739d3cd03b925823bcb74e9f263254fd746c4c5f60a9b6326a9a3a6da4a1e00/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$280 per week"
+                },
+                "bond": {
+                    "display": "$1,120"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "419298342",
+                "address": {
+                    "display": {
+                        "fullAddress": "3/2-4 Fleet Drive, Kippa-Ring, Qld 4021",
+                        "shortAddress": "3/2-4 Fleet Drive"
+                    },
+                    "suburb": "Kippa-Ring",
+                    "state": "Qld",
+                    "postcode": "4021"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-qld-kippa-ring-419298342"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f8f3e097562393a5d31d09e699bc8dcedbb44ba3e65150044cc6f714fb7ae28b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$410 per week"
+                },
+                "bond": {
+                    "display": "$1,640"
+                },
+                "availableDate": {
+                    "display": "Available 01 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "432554810",
+                "address": {
+                    "display": {
+                        "fullAddress": "34 Pitt Street, Junee, NSW 2663",
+                        "shortAddress": "34 Pitt Street"
+                    },
+                    "suburb": "Junee",
+                    "state": "NSW",
+                    "postcode": "2663"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-junee-432554810"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/52161ecbcba153115d8967b862056ff85d5ca80189b81e5d75f22fc7d8d71fc0/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$370 Per Week"
+                },
+                "bond": {
+                    "display": "$1,480"
+                },
+                "availableDate": {
+                    "display": "Available 12 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435451059",
+                "address": {
+                    "display": {
+                        "fullAddress": "74B Proctors Road, Kingston, Tas 7050",
+                        "shortAddress": "74B Proctors Road"
+                    },
+                    "suburb": "Kingston",
+                    "state": "Tas",
+                    "postcode": "7050"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-tas-kingston-435451059"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d896cf1da962a4bd4a4165e85fda4e145d4e242ecb9844dc70aaed517a64b781/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$620 per week"
+                },
+                "bond": {
+                    "display": "$2,480"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 10
+                    }
+                }
+            },
+            {
+                "id": "430394106",
+                "address": {
+                    "display": {
+                        "fullAddress": "Unit 5/129 Oleander Street, Holloways Beach, Qld 4878",
+                        "shortAddress": "Unit 5/129 Oleander Street"
+                    },
+                    "suburb": "Holloways Beach",
+                    "state": "Qld",
+                    "postcode": "4878"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-qld-holloways+beach-430394106"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ab8dd6bd0460f9a4edb2cb67741bdb718eaff794a013af6df81817013556d53b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$380 wk"
+                },
+                "bond": {
+                    "display": "$1,520"
+                },
+                "availableDate": {
+                    "display": "Available 22 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435730800",
+                "address": {
+                    "display": {
+                        "fullAddress": "12 Toft Drive, Raceview, Qld 4305",
+                        "shortAddress": "12 Toft Drive"
+                    },
+                    "suburb": "Raceview",
+                    "state": "Qld",
+                    "postcode": "4305"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-raceview-435730800"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a2501ff26aa68fea86463fd18add2196a74af45edde31761fc4f4415c7dab2ae/image.png"
+                    }
+                },
+                "price": {
+                    "display": "$440 Per Week"
+                },
+                "bond": {
+                    "display": "$1,760"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "415451015",
+                "address": {
+                    "display": {
+                        "fullAddress": "6 Ridley Street, Mawson Lakes, SA 5095",
+                        "shortAddress": "6 Ridley Street"
+                    },
+                    "suburb": "Mawson Lakes",
+                    "state": "SA",
+                    "postcode": "5095"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-sa-mawson+lakes-415451015"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/2c4cdaaa34bd42a4da01c68ed109580174f4c57e4307155731a2867b4954e1a8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$430 per week"
+                },
+                "bond": {
+                    "display": "$2,580"
+                },
+                "availableDate": {
+                    "display": "Available 23 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "433326870",
+                "address": {
+                    "display": {
+                        "fullAddress": "5/23 Woodford Street, Holland Park, Qld 4121",
+                        "shortAddress": "5/23 Woodford Street"
+                    },
+                    "suburb": "Holland Park",
+                    "state": "Qld",
+                    "postcode": "4121"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-qld-holland+park-433326870"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a52e21fe4f803e6b9e92ceeb7ecb80862f64421443bc69d2f240f97c1d6c9067/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$350 per week"
+                },
+                "bond": {
+                    "display": "$1,400"
+                },
+                "availableDate": {
+                    "display": "Available 21 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435612140",
+                "address": {
+                    "display": {
+                        "fullAddress": "15 (studio) Third Street, Granville, NSW 2142",
+                        "shortAddress": "15 (studio) Third Street"
+                    },
+                    "suburb": "Granville",
+                    "state": "NSW",
+                    "postcode": "2142"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-studio-nsw-granville-435612140"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/524a4660fe7b065dd0047690d6b2881de9bef3558d1f554acf79cb407325bae8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$300.00 Per Week"
+                },
+                "bond": {
+                    "display": "$1,200"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 0
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "429875886",
+                "address": {
+                    "display": {
+                        "fullAddress": "425 Harris Street, Ultimo, NSW 2007",
+                        "shortAddress": "425 Harris Street"
+                    },
+                    "suburb": "Ultimo",
+                    "state": "NSW",
+                    "postcode": "2007"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-ultimo-429875886"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/037f4355709c08bd56ee38f9dfad47094d617da5dc1daed6fc249ab75a1dc45c/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$1,100 per week"
+                },
+                "bond": {
+                    "display": "$4,400"
+                },
+                "availableDate": {
+                    "display": "Available 16 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435587616",
+                "address": {
+                    "display": {
+                        "fullAddress": "106/500 Flinders Street, Melbourne, Vic 3000",
+                        "shortAddress": "106/500 Flinders Street"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-studio-vic-melbourne-435587616"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/00d53f894a9d2fe7d4fda5bce6447a8532831613fe0f4c86f86fa3c0c21c9ec7/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$300 per week"
+                },
+                "bond": {
+                    "display": "$1,304"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435734344",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/153 Narara Valley Drive, Narara, NSW 2250",
+                        "shortAddress": "2/153 Narara Valley Drive"
+                    },
+                    "suburb": "Narara",
+                    "state": "NSW",
+                    "postcode": "2250"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-nsw-narara-435734344"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/215dd41f080fc84364c084282145be27146c1fee1a5db2705716e42862333c86/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435738836",
+                "address": {
+                    "display": {
+                        "fullAddress": "80 Gatton Clifton Road, Lower Tenthill, Qld 4343",
+                        "shortAddress": "80 Gatton Clifton Road"
+                    },
+                    "suburb": "Lower Tenthill",
+                    "state": "Qld",
+                    "postcode": "4343"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-lower+tenthill-435738836"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/4f5b8a553c732d4373bd8befa49d5713247cdbf53152ee8be8bb664d80f319b1/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$360 per week"
+                },
+                "bond": {
+                    "display": "$1,440"
+                },
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "417655410",
+                "address": {
+                    "display": {
+                        "fullAddress": "411/33 Bronte Road, Bondi Junction, NSW 2022",
+                        "shortAddress": "411/33 Bronte Road"
+                    },
+                    "suburb": "Bondi Junction",
+                    "state": "NSW",
+                    "postcode": "2022"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-nsw-bondi+junction-417655410"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/cba56a6ab4630b625aff883d522de9ed93929128744f90f105425f342237cb7f/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$850 per week"
+                },
+                "bond": {
+                    "display": "$3,400"
+                },
+                "availableDate": {
+                    "display": "Available 08 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435667196",
+                "address": {
+                    "display": {
+                        "fullAddress": "19 Falkirk Way, Spring Mountain, Qld 4300",
+                        "shortAddress": "19 Falkirk Way"
+                    },
+                    "suburb": "Spring Mountain",
+                    "state": "Qld",
+                    "postcode": "4300"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-spring+mountain-435667196"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/772ef5de0600fb4720580e3e2aa88383d3b7eb3c4b9e27be2081c235a27c552f/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$660 PER WEEK"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 5
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435715548",
+                "address": {
+                    "display": {
+                        "fullAddress": "28 Stanmore Street, Shenton Park, WA 6008",
+                        "shortAddress": "28 Stanmore Street"
+                    },
+                    "suburb": "Shenton Park",
+                    "state": "WA",
+                    "postcode": "6008"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-shenton+park-435715548"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/4f033f77ad2aeb3b74ce24dee0314153485bd6b25a4d1cc0f0cf9193db71b2d1/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$1,030 per week"
+                },
+                "bond": {
+                    "display": "$4,120"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "413711103",
+                "address": {
+                    "display": {
+                        "fullAddress": "702 Tully Gorge Road, Tully, Qld 4854",
+                        "shortAddress": "702 Tully Gorge Road"
+                    },
+                    "suburb": "Tully",
+                    "state": "Qld",
+                    "postcode": "4854"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-tully-413711103"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/3a8eedc6d3955cee608a3f5ec6b5ce5424be858f674357da93275ffeb3ac2a86/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$300 wk"
+                },
+                "bond": {
+                    "display": "$1,200"
+                },
+                "availableDate": {
+                    "display": "Available 13 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435705448",
+                "address": {
+                    "display": {
+                        "fullAddress": "506/7 Garrigarrang Avenue, Kogarah, NSW 2217",
+                        "shortAddress": "506/7 Garrigarrang Avenue"
+                    },
+                    "suburb": "Kogarah",
+                    "state": "NSW",
+                    "postcode": "2217"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-kogarah-435705448"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/b46ac2643c3cd619795982d6d8ac4c76f4069d5d6c7b057f0b2cce0a4aa7e990/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$680 per week"
+                },
+                "bond": {
+                    "display": "$2,720"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "417158770",
+                "address": {
+                    "display": {
+                        "fullAddress": "8 Edward Street, Vincentia, NSW 2540",
+                        "shortAddress": "8 Edward Street"
+                    },
+                    "suburb": "Vincentia",
+                    "state": "NSW",
+                    "postcode": "2540"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-vincentia-417158770"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ba3f22d0589eec6dca15715eb304a5d72c3db6e6d0627cc7a5ddcc3ba96dcb65/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 per week pw"
+                },
+                "bond": {
+                    "display": "$1,800"
+                },
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435734056",
+                "address": {
+                    "display": {
+                        "fullAddress": "2007/380  Murray Street, Perth, WA 6000",
+                        "shortAddress": "2007/380  Murray Street"
+                    },
+                    "suburb": "Perth",
+                    "state": "WA",
+                    "postcode": "6000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-wa-perth-435734056"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/333656476227f31619313b362ce7b2f681e43213674890547cc0cc6feeae6a84/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$600 per week (Furnished )"
+                },
+                "bond": {
+                    "display": "$2,400"
+                },
+                "availableDate": {
+                    "display": "Available 09 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435706744",
+                "address": {
+                    "display": {
+                        "fullAddress": "6/2 Nartanda Court, Doncaster East, Vic 3109",
+                        "shortAddress": "6/2 Nartanda Court"
+                    },
+                    "suburb": "Doncaster East",
+                    "state": "Vic",
+                    "postcode": "3109"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-doncaster+east-435706744"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/e85bb0cf4a3882efa54f4aab257d0ab41e6a6f65988f43f6c1fcc0abdaf772df/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$510 per week"
+                },
+                "bond": {
+                    "display": "$2,216"
+                },
+                "availableDate": {
+                    "display": "Available 21 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "428724234",
+                "address": {
+                    "display": {
+                        "fullAddress": "33/75 Phoenix Road, Spearwood, WA 6163",
+                        "shortAddress": "33/75 Phoenix Road"
+                    },
+                    "suburb": "Spearwood",
+                    "state": "WA",
+                    "postcode": "6163"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-wa-spearwood-428724234"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/045f191a32d43ec8efde2ac0c423e6483da2789d1ad97e42afe3d4a5cf9abc79/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$350 Weekly"
+                },
+                "bond": {
+                    "display": "$1,400"
+                },
+                "availableDate": {
+                    "display": "Available 16 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435652116",
+                "address": {
+                    "display": {
+                        "fullAddress": "11  Third Avenue, Berala, NSW 2141",
+                        "shortAddress": "11  Third Avenue"
+                    },
+                    "suburb": "Berala",
+                    "state": "NSW",
+                    "postcode": "2141"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-berala-435652116"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/804c4294f21e8de8ca7914b93e615a625a46ab59db9667e8bacbaba8b3721c78/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$790.00 PER WEEK"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 01 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "414240683",
+                "address": {
+                    "display": {
+                        "fullAddress": "1/67 Dan Street, Karalee, Qld 4306",
+                        "shortAddress": "1/67 Dan Street"
+                    },
+                    "suburb": "Karalee",
+                    "state": "Qld",
+                    "postcode": "4306"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-duplex+semi-detached-qld-karalee-414240683"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/14f77e3ac983d90851159480bd4a0cfea98f7a6d092d26738e11a94640c56a71/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$320 per week"
+                },
+                "bond": {
+                    "display": "$1,280"
+                },
+                "availableDate": {
+                    "display": "Available 07 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435685704",
+                "address": {
+                    "display": {
+                        "fullAddress": "807/3 LOFTUS STREET, West Leederville, WA 6007",
+                        "shortAddress": "807/3 LOFTUS STREET"
+                    },
+                    "suburb": "West Leederville",
+                    "state": "WA",
+                    "postcode": "6007"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-wa-west+leederville-435685704"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/66e13c78ffb883d419c0281296c65e32d98b5bce250a9068405b185ef42192c8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 Per Week"
+                },
+                "bond": {
+                    "display": "$2,200"
+                },
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435703376",
+                "address": {
+                    "display": {
+                        "fullAddress": "5 Kista Dan Avenue, Tregear, NSW 2770",
+                        "shortAddress": "5 Kista Dan Avenue"
+                    },
+                    "suburb": "Tregear",
+                    "state": "NSW",
+                    "postcode": "2770"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-tregear-435703376"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/2cdbd4bb78120a44da8f981bd06ff0d50607f9704258c85120be7fd314235162/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$375 per week"
+                },
+                "bond": {
+                    "display": "$1,500"
+                },
+                "availableDate": {
+                    "display": "Available 06 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "422220174",
+                "address": {
+                    "display": {
+                        "fullAddress": "15/19 Cromwell Road, South Yarra, Vic 3141",
+                        "shortAddress": "15/19 Cromwell Road"
+                    },
+                    "suburb": "South Yarra",
+                    "state": "Vic",
+                    "postcode": "3141"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-south+yarra-422220174"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/cef3a15485f6ba53ea7ee380ce6623e1dd28af3c58e2a5a56abf4399ec852536/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$310 per week"
+                },
+                "bond": {
+                    "display": "$1,347"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435747536",
+                "address": {
+                    "display": {
+                        "fullAddress": "1/24 Mullin Street, Paddington, Qld 4064",
+                        "shortAddress": "1/24 Mullin Street"
+                    },
+                    "suburb": "Paddington",
+                    "state": "Qld",
+                    "postcode": "4064"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-qld-paddington-435747536"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/200c5f42ed300355925321de3828bbf4652107f5e83452f668dfb9a688d6ed43/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$350 per week"
+                },
+                "bond": {
+                    "display": "$1,400"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "429648954",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/10 Pear Street, Greenslopes, Qld 4120",
+                        "shortAddress": "2/10 Pear Street"
+                    },
+                    "suburb": "Greenslopes",
+                    "state": "Qld",
+                    "postcode": "4120"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-greenslopes-429648954"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/3f749dc2c5561c35aac3d6bd40efa3768b16eeb839360586f251ee36de0e8a08/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$295 per week"
+                },
+                "bond": {
+                    "display": "$1,180"
+                },
+                "availableDate": {
+                    "display": "Available 05 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435746816",
+                "address": {
+                    "display": {
+                        "fullAddress": "48 Market Street, Kyneton, Vic 3444",
+                        "shortAddress": "48 Market Street"
+                    },
+                    "suburb": "Kyneton",
+                    "state": "Vic",
+                    "postcode": "3444"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-kyneton-435746816"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d30a4409e62063f671bd493b89db0211c9107554979163cdd64529b5dd227ae5/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$470 per week"
+                },
+                "bond": {
+                    "display": "$2,042"
+                },
+                "availableDate": {
+                    "display": "Available 13 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "429821006",
+                "address": {
+                    "display": {
+                        "fullAddress": "12/38 Ramsgate Avenue, Bondi Beach, NSW 2026",
+                        "shortAddress": "12/38 Ramsgate Avenue"
+                    },
+                    "suburb": "Bondi Beach",
+                    "state": "NSW",
+                    "postcode": "2026"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-bondi+beach-429821006"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d73143dc5e1f982b22d93a4e76307a81891d59a9b10e11455883e237d2aee72a/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$700 per week"
+                },
+                "bond": {
+                    "display": "$2,800"
+                },
+                "availableDate": {
+                    "display": "Available 21 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "431597086",
+                "address": {
+                    "display": {
+                        "fullAddress": "9 Gentle Avenue, Bucasia, Qld 4750",
+                        "shortAddress": "9 Gentle Avenue"
+                    },
+                    "suburb": "Bucasia",
+                    "state": "Qld",
+                    "postcode": "4750"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-bucasia-431597086"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a108f35a7b45ab5fb1b7219f2f66d760d0303bd383bb7d77ea35a6a86091a244/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 per week"
+                },
+                "bond": {
+                    "display": "$1,800"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435741868",
+                "address": {
+                    "display": {
+                        "fullAddress": "18 Oxenham Circuit, Augustine Heights, Qld 4300",
+                        "shortAddress": "18 Oxenham Circuit"
+                    },
+                    "suburb": "Augustine Heights",
+                    "state": "Qld",
+                    "postcode": "4300"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-augustine+heights-435741868"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d034eafb96f3fafaeb44c07c68c30352e56c0a490aa1306bc818c01f3af3e9dc/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$650 per week"
+                },
+                "bond": {
+                    "display": "$2,600"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435654992",
+                "address": {
+                    "display": {
+                        "fullAddress": "15 Elsham Avenue, Orange, NSW 2800",
+                        "shortAddress": "15 Elsham Avenue"
+                    },
+                    "suburb": "Orange",
+                    "state": "NSW",
+                    "postcode": "2800"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-orange-435654992"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/1bfd82f90da6cdca636befb4a2097a8bd962731a8299d30c94318c412e5c5f52/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 per week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435714884",
+                "address": {
+                    "display": {
+                        "fullAddress": "10/136 Wright Street, Sunshine, Vic 3020",
+                        "shortAddress": "10/136 Wright Street"
+                    },
+                    "suburb": "Sunshine",
+                    "state": "Vic",
+                    "postcode": "3020"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-sunshine-435714884"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f48699e554e497ed1d4a523f6e7f0491768e916ed3032a203ff3afdd96dc26e4/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$335 per week"
+                },
+                "bond": {
+                    "display": "$1,456"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435695536",
+                "address": {
+                    "display": {
+                        "fullAddress": "23/104 Bridge Road, Westmead, NSW 2145",
+                        "shortAddress": "23/104 Bridge Road"
+                    },
+                    "suburb": "Westmead",
+                    "state": "NSW",
+                    "postcode": "2145"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-westmead-435695536"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/832f90a592f19679f6501060d946e6bb0374bd3c07851c7ddde7c4672cf08e2c/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$410.00 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 10 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435727260",
+                "address": {
+                    "display": {
+                        "fullAddress": "3407/228 La Trobe Street, Melbourne, Vic 3000",
+                        "shortAddress": "3407/228 La Trobe Street"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-melbourne-435727260"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ac890913e748f96dd584cdd8bd2fdd830042d4cb56695cf1a1ffe5f932f71a8d/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$580 per week"
+                },
+                "bond": {
+                    "display": "$2,320"
+                },
+                "availableDate": {
+                    "display": "Available 30 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435733556",
+                "address": {
+                    "display": {
+                        "fullAddress": "66 Ruskin Street, Elwood, Vic 3184",
+                        "shortAddress": "66 Ruskin Street"
+                    },
+                    "suburb": "Elwood",
+                    "state": "Vic",
+                    "postcode": "3184"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-elwood-435733556"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/3bd368b79f560a0ec05e053c9b1c31854034d4c9d43d01a460c818dac272b8cc/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$950.00 per week"
+                },
+                "bond": {
+                    "display": "$4,750"
+                },
+                "availableDate": {
+                    "display": "Available 22 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435729988",
+                "address": {
+                    "display": {
+                        "fullAddress": "1102/6-8 Dorcas Street, Southbank, Vic 3006",
+                        "shortAddress": "1102/6-8 Dorcas Street"
+                    },
+                    "suburb": "Southbank",
+                    "state": "Vic",
+                    "postcode": "3006"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-southbank-435729988"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/7c249cad40b798207c4a1c80be1b0fd70ce94205e75a379a2474b69704def5a8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$410 per week"
+                },
+                "bond": {
+                    "display": "$1,782"
+                },
+                "availableDate": {
+                    "display": "Available 03 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435742396",
+                "address": {
+                    "display": {
+                        "fullAddress": "5/37 Latimer St, Holland Park, Qld 4121",
+                        "shortAddress": "5/37 Latimer St"
+                    },
+                    "suburb": "Holland Park",
+                    "state": "Qld",
+                    "postcode": "4121"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-holland+park-435742396"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/960f1d35607b9022e740b0b81ed7beaf37c269d46e4df6311e4b928c2383aa5d/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$320 per week"
+                },
+                "bond": {
+                    "display": "$1,280"
+                },
+                "availableDate": {
+                    "display": "Available 05 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435586324",
+                "address": {
+                    "display": {
+                        "fullAddress": "511/88 Keira Street, Wollongong, NSW 2500",
+                        "shortAddress": "511/88 Keira Street"
+                    },
+                    "suburb": "Wollongong",
+                    "state": "NSW",
+                    "postcode": "2500"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-wollongong-435586324"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/3d61593f910614b900d0f6398d2b766a7773b8937ac442f9f99fc9a76b1a2189/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$650 per week"
+                },
+                "bond": {
+                    "display": "$2,600"
+                },
+                "availableDate": {
+                    "display": "Available 10 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "431634366",
+                "address": {
+                    "display": {
+                        "fullAddress": "2511/2 Mentmore Ave, Rosebery, NSW 2018",
+                        "shortAddress": "2511/2 Mentmore Ave"
+                    },
+                    "suburb": "Rosebery",
+                    "state": "NSW",
+                    "postcode": "2018"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-rosebery-431634366"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/e5cf2bced77c4ea2f632252033484424354f452e7a490ea79c053bbf74cfe966/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$620 per week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435734164",
+                "address": {
+                    "display": {
+                        "fullAddress": "53 Harwood Circuit, Glenmore Park, NSW 2745",
+                        "shortAddress": "53 Harwood Circuit"
+                    },
+                    "suburb": "Glenmore Park",
+                    "state": "NSW",
+                    "postcode": "2745"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-glenmore+park-435734164"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f8935fe4d264b12664846cd4cd658ba8275227f13aca4bf294599bd1b3516c45/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$650"
+                },
+                "bond": {
+                    "display": "$2,600"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435745748",
+                "address": {
+                    "display": {
+                        "fullAddress": "103/389 Bourke Street, Surry Hills, NSW 2010",
+                        "shortAddress": "103/389 Bourke Street"
+                    },
+                    "suburb": "Surry Hills",
+                    "state": "NSW",
+                    "postcode": "2010"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-studio-nsw-surry+hills-435745748"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d68b1a98927bd842226d0c23d888e888151a7b85595f680dd22959e5fbbd138d/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$475 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435704164",
+                "address": {
+                    "display": {
+                        "fullAddress": "42/2 Rowe Ave, Rivervale, WA 6103",
+                        "shortAddress": "42/2 Rowe Ave"
+                    },
+                    "suburb": "Rivervale",
+                    "state": "WA",
+                    "postcode": "6103"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-wa-rivervale-435704164"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/d96b930fbb82241977825d54869b4e90018ff60801a07f8928944804fa7a1d09/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$410 per week"
+                },
+                "bond": {
+                    "display": "$1,600"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435501411",
+                "address": {
+                    "display": {
+                        "fullAddress": "6 Oak Grove, Caroline Springs, Vic 3023",
+                        "shortAddress": "6 Oak Grove"
+                    },
+                    "suburb": "Caroline Springs",
+                    "state": "Vic",
+                    "postcode": "3023"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-caroline+springs-435501411"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/6a3374593cfa8fc7e0bbb07ce450ed384cfba6717f0bbef2fe6a205c13bad774/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$400 per week"
+                },
+                "bond": {
+                    "display": "$1,738"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "428814810",
+                "address": {
+                    "display": {
+                        "fullAddress": "5D/258 Sheridan Street, Cairns North, Qld 4870",
+                        "shortAddress": "5D/258 Sheridan Street"
+                    },
+                    "suburb": "Cairns North",
+                    "state": "Qld",
+                    "postcode": "4870"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-cairns+north-428814810"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/3f1b601c517e45d618d97d23f0d1cc504ec8161c351cc0c230cf1a51d0f9e75e/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$300 p/w (incl outgoings)"
+                },
+                "bond": {
+                    "display": "$1,040"
+                },
+                "availableDate": {
+                    "display": "Available 09 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435715336",
+                "address": {
+                    "display": {
+                        "fullAddress": "9 Walter Street, Gosnells, WA 6110",
+                        "shortAddress": "9 Walter Street"
+                    },
+                    "suburb": "Gosnells",
+                    "state": "WA",
+                    "postcode": "6110"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-gosnells-435715336"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/9a582fbe5b5638d65575c40feb34ce9933158966e34b4d93bb2680827ae6527f/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$420 per week"
+                },
+                "bond": {
+                    "display": "$1,680"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435620580",
+                "address": {
+                    "display": {
+                        "fullAddress": "2207/308 Exhibition Street, Melbourne, Vic 3000",
+                        "shortAddress": "2207/308 Exhibition Street"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-melbourne-435620580"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/91feba59c4e9f978658288046ae9a627efeee94081cb3c015ab06a2b828c076c/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$575 per week"
+                },
+                "bond": {
+                    "display": "$2,499"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435715976",
+                "address": {
+                    "display": {
+                        "fullAddress": "303/45B Newstead Terrace, Newstead, Qld 4006",
+                        "shortAddress": "303/45B Newstead Terrace"
+                    },
+                    "suburb": "Newstead",
+                    "state": "Qld",
+                    "postcode": "4006"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-newstead-435715976"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/c5168dd0d2c610ecabda796ab49609474374c808b3299414cb6964c260d8cd52/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$1,950 per week"
+                },
+                "bond": {
+                    "display": "$11,400"
+                },
+                "availableDate": {
+                    "display": "Available 03 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "404882316",
+                "address": {
+                    "display": {
+                        "fullAddress": null,
+                        "shortAddress": null
+                    },
+                    "suburb": "Babinda",
+                    "state": "Qld",
+                    "postcode": "4861"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-babinda-404882316"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ecfe185253a0ec33ecd82ea62a43002d00c30f615a6c2df58b5f3dedcf08f3f8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$310 Weekly"
+                },
+                "bond": {
+                    "display": "$1,240"
+                },
+                "availableDate": {
+                    "display": "Available 13 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435684564",
+                "address": {
+                    "display": {
+                        "fullAddress": "3/12 Main Road, Hadspen, Tas 7290",
+                        "shortAddress": "3/12 Main Road"
+                    },
+                    "suburb": "Hadspen",
+                    "state": "Tas",
+                    "postcode": "7290"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-tas-hadspen-435684564"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/da2d3503b59a85912ba7e016c3d094594596e0d37fee8be72287f8ff863fb923/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$330 per week"
+                },
+                "bond": {
+                    "display": "$1,320"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435722756",
+                "address": {
+                    "display": {
+                        "fullAddress": "23 Hedges Street, Craigieburn, Vic 3064",
+                        "shortAddress": "23 Hedges Street"
+                    },
+                    "suburb": "Craigieburn",
+                    "state": "Vic",
+                    "postcode": "3064"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-craigieburn-435722756"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/7e1e4e6026b87eb6157701fb0bbdd4518f846a82ef143fb18edbc38c26e2874b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$410 per week"
+                },
+                "bond": {
+                    "display": "$1,782"
+                },
+                "availableDate": {
+                    "display": "Available 10 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435730228",
+                "address": {
+                    "display": {
+                        "fullAddress": "2 Bergman Way, Maitland, NSW 2320",
+                        "shortAddress": "2 Bergman Way"
+                    },
+                    "suburb": "Maitland",
+                    "state": "NSW",
+                    "postcode": "2320"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-maitland-435730228"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/aa16a6e1d0e865000391704b4fc7aed4afd9be986b0660b08f62215a58d14d84/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$355 per week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 07 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "432886618",
+                "address": {
+                    "display": {
+                        "fullAddress": "1/9 Sturt Street, South West Rocks, NSW 2431",
+                        "shortAddress": "1/9 Sturt Street"
+                    },
+                    "suburb": "South West Rocks",
+                    "state": "NSW",
+                    "postcode": "2431"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-nsw-south+west+rocks-432886618"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a5f51113045ed72792f46514033934f913233f1c929c35c3deb9473d9e1a90fa/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$440 wk"
+                },
+                "bond": {
+                    "display": "$1,760"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "416242457",
+                "address": {
+                    "display": {
+                        "fullAddress": "501/233 Pyrmont St, Pyrmont, NSW 2009",
+                        "shortAddress": "501/233 Pyrmont St"
+                    },
+                    "suburb": "Pyrmont",
+                    "state": "NSW",
+                    "postcode": "2009"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-pyrmont-416242457"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/83775347a34ecfc0b43c148c4a76f8d9b57867666ecac795c4dfedc575230f11/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$720 per week"
+                },
+                "bond": {
+                    "display": "$2,480"
+                },
+                "availableDate": {
+                    "display": "Available 01 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435677892",
+                "address": {
+                    "display": {
+                        "fullAddress": "6 Heyshott Road, Balga, WA 6061",
+                        "shortAddress": "6 Heyshott Road"
+                    },
+                    "suburb": "Balga",
+                    "state": "WA",
+                    "postcode": "6061"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-balga-435677892"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/300d3a835925273d11149e42398736bf0826a923dc0504ced7b927bf30bbd184/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 per week"
+                },
+                "bond": {
+                    "display": "$1,800"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435718848",
+                "address": {
+                    "display": {
+                        "fullAddress": "3F Vautier Street, Elwood, Vic 3184",
+                        "shortAddress": "3F Vautier Street"
+                    },
+                    "suburb": "Elwood",
+                    "state": "Vic",
+                    "postcode": "3184"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-vic-elwood-435718848"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ccdf59b8c8adb2a13da038aac4c9affbeb46419a922410fb1261ac1818dcfc25/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$800 per week"
+                },
+                "bond": {
+                    "display": "$3,476"
+                },
+                "availableDate": {
+                    "display": "Available 12 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435634428",
+                "address": {
+                    "display": {
+                        "fullAddress": "Unit 3/49 Mcmillan Street, Victoria Park, WA 6100",
+                        "shortAddress": "Unit 3/49 Mcmillan Street"
+                    },
+                    "suburb": "Victoria Park",
+                    "state": "WA",
+                    "postcode": "6100"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-victoria+park-435634428"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/c632c49000e1510b92af2736f1dd032800f599eba1076422615688ea44247769/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$660 Per Week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "433063994",
+                "address": {
+                    "display": {
+                        "fullAddress": "26/121 Hill Street, East Perth, WA 6004",
+                        "shortAddress": "26/121 Hill Street"
+                    },
+                    "suburb": "East Perth",
+                    "state": "WA",
+                    "postcode": "6004"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-wa-east+perth-433063994"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/b849229d527d83bae1fa848d514d043360a4467d882efd9ada7858e4291f4371/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$530"
+                },
+                "bond": {
+                    "display": "$2,120"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435524831",
+                "address": {
+                    "display": {
+                        "fullAddress": "17 Domain Way, Taylors Hill, Vic 3037",
+                        "shortAddress": "17 Domain Way"
+                    },
+                    "suburb": "Taylors Hill",
+                    "state": "Vic",
+                    "postcode": "3037"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-taylors+hill-435524831"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/fada956bae8dc750973cd221918613f85b8c562e915b54ce76cf8f1c79487920/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 Per Week"
+                },
+                "bond": {
+                    "display": "$1,955"
+                },
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435716692",
+                "address": {
+                    "display": {
+                        "fullAddress": "7811/228 La Trobe St, Melbourne, Vic 3000",
+                        "shortAddress": "7811/228 La Trobe St"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-melbourne-435716692"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/cc5a501ee34ce3de98aa8c0de86e4822e9921d579146128e4b8c019d4e1584f2/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "580/W Unfurnished"
+                },
+                "bond": {
+                    "display": "$2,520"
+                },
+                "availableDate": {
+                    "display": "Available 08 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "403204270",
+                "address": {
+                    "display": {
+                        "fullAddress": "8/5 FISK STREET, Westcourt, Qld 4870",
+                        "shortAddress": "8/5 FISK STREET"
+                    },
+                    "suburb": "Westcourt",
+                    "state": "Qld",
+                    "postcode": "4870"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-qld-westcourt-403204270"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/1fdeba6844d87f33a8060688239f2e6335d6676a8ef773ed7fc8358c7d700d62/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$260 per week"
+                },
+                "bond": {
+                    "display": "$1,040"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "420047334",
+                "address": {
+                    "display": {
+                        "fullAddress": "20/49-59 Boronia Street, Kensington, NSW 2033",
+                        "shortAddress": "20/49-59 Boronia Street"
+                    },
+                    "suburb": "Kensington",
+                    "state": "NSW",
+                    "postcode": "2033"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-kensington-420047334"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/56da522d3d4e07f9337e2a8617871dc69e1eaed8b15e95bd49427b3fbabde8b2/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$620 per week"
+                },
+                "bond": {
+                    "display": "$2,480"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435577504",
+                "address": {
+                    "display": {
+                        "fullAddress": "12 Fairweather Parade, Officer, Vic 3809",
+                        "shortAddress": "12 Fairweather Parade"
+                    },
+                    "suburb": "Officer",
+                    "state": "Vic",
+                    "postcode": "3809"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-vic-officer-435577504"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/96f3c8db003cd0de6ee95840dfa6a47d21e376ca8e17930f8bb8aa118f78429f/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$460 per week"
+                },
+                "bond": {
+                    "display": "$1,999"
+                },
+                "availableDate": {
+                    "display": "Available 16 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 3
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435713636",
+                "address": {
+                    "display": {
+                        "fullAddress": "105/546 Flinders Street, Melbourne, Vic 3000",
+                        "shortAddress": "105/546 Flinders Street"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-melbourne-435713636"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/8a48359ef8b8de206be94ba87078821e4027aea2cb46227a93488ffae530eccb/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$270 per week"
+                },
+                "bond": {
+                    "display": "$1,173"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 0
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435653704",
+                "address": {
+                    "display": {
+                        "fullAddress": "7 Hurley Lane, Ripley, Qld 4306",
+                        "shortAddress": "7 Hurley Lane"
+                    },
+                    "suburb": "Ripley",
+                    "state": "Qld",
+                    "postcode": "4306"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-ripley-435653704"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/9a3c3be9634684af087e293bfda1837dec34d262045689b76b8e1d4be49d1b9a/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$420 per week"
+                },
+                "bond": {
+                    "display": "$1,680"
+                },
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "426213930",
+                "address": {
+                    "display": {
+                        "fullAddress": "114A Bayview Avenue, Earlwood, NSW 2206",
+                        "shortAddress": "114A Bayview Avenue"
+                    },
+                    "suburb": "Earlwood",
+                    "state": "NSW",
+                    "postcode": "2206"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-other-nsw-earlwood-426213930"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/0d104b2c46ebda1bb56db2c73c006f730736d7a6b886abf267b40fba230bca55/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$520 P/W"
+                },
+                "bond": {
+                    "display": "$2,080"
+                },
+                "availableDate": {
+                    "display": "Available 14 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435557423",
+                "address": {
+                    "display": {
+                        "fullAddress": "5103/568 Collins Street, Melbourne, Vic 3000",
+                        "shortAddress": "5103/568 Collins Street"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-melbourne-435557423"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/8052dec0db54d7390a26a4b5e528fb32fa56a739199ecc287900e4d75c12be21/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$600 per week"
+                },
+                "bond": {
+                    "display": "$2,607"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "425643810",
+                "address": {
+                    "display": {
+                        "fullAddress": "3004/222 Margaret Street, Brisbane City, Qld 4000",
+                        "shortAddress": "3004/222 Margaret Street"
+                    },
+                    "suburb": "Brisbane City",
+                    "state": "Qld",
+                    "postcode": "4000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-qld-brisbane+city-425643810"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/0095181574379619637de8631ce6f1767ba0055bbdce5dd4f0077850c02e8cf8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$600 per week"
+                },
+                "bond": {
+                    "display": "$2,400"
+                },
+                "availableDate": {
+                    "display": "Available 25 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "420824566",
+                "address": {
+                    "display": {
+                        "fullAddress": "69 Chipley Street, Darra, Qld 4076",
+                        "shortAddress": "69 Chipley Street"
+                    },
+                    "suburb": "Darra",
+                    "state": "Qld",
+                    "postcode": "4076"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-darra-420824566"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/204b931a413164a3dde08aa32bb1c56a3ca0e6f97b8157c1916ea2fc4be4cae7/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$520 per week. AVAILABLE NOW !"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "431879474",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/4 Humber Road, Croydon North, Vic 3136",
+                        "shortAddress": "2/4 Humber Road"
+                    },
+                    "suburb": "Croydon North",
+                    "state": "Vic",
+                    "postcode": "3136"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-vic-croydon+north-431879474"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/b3f7fdfec0223443ce34e7e8854e68aed545eb8539b60fd0f5eef0a3dcb8d548/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$445 per week"
+                },
+                "bond": {
+                    "display": "$1,920"
+                },
+                "availableDate": {
+                    "display": "Available 16 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435671696",
+                "address": {
+                    "display": {
+                        "fullAddress": "47/1-19 Bowen Street, Mango Hill, Qld 4509",
+                        "shortAddress": "47/1-19 Bowen Street"
+                    },
+                    "suburb": "Mango Hill",
+                    "state": "Qld",
+                    "postcode": "4509"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-qld-mango+hill-435671696"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a278bb8fb0978531a67becd0ff23c279dc2bf17edded642da45f622cef559977/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$480 per week"
+                },
+                "bond": {
+                    "display": "$1,920"
+                },
+                "availableDate": {
+                    "display": "Available 09 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435705396",
+                "address": {
+                    "display": {
+                        "fullAddress": "21107/28 Merivale St, South Brisbane, Qld 4101",
+                        "shortAddress": "21107/28 Merivale St"
+                    },
+                    "suburb": "South Brisbane",
+                    "state": "Qld",
+                    "postcode": "4101"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-south+brisbane-435705396"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/7946dfc5f70443011bc8995b5b66a1a6d91b9312cff7f4c78d488bda247c4024/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$460 per week"
+                },
+                "bond": {
+                    "display": "$1,840"
+                },
+                "availableDate": {
+                    "display": "Available 09 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435672224",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/42 Queen Street, Lake Illawarra, NSW 2528",
+                        "shortAddress": "2/42 Queen Street"
+                    },
+                    "suburb": "Lake Illawarra",
+                    "state": "NSW",
+                    "postcode": "2528"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-lake+illawarra-435672224"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/60b3c192201926fabb7665ece1767a7a5ec6316b414139619e416150fc127b97/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$625.00 Per Week"
+                },
+                "bond": {
+                    "display": "$2,500"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 3
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435600092",
+                "address": {
+                    "display": {
+                        "fullAddress": "27 Birrigon Loop, Swanbourne, WA 6010",
+                        "shortAddress": "27 Birrigon Loop"
+                    },
+                    "suburb": "Swanbourne",
+                    "state": "WA",
+                    "postcode": "6010"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-swanbourne-435600092"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/18f8a984de041fc8db12df76fdec5caad089c3df75338078fd8db041310e0718/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$2,200 per week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 3
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435730656",
+                "address": {
+                    "display": {
+                        "fullAddress": "13/1-19 Bowen Street, Mango Hill, Qld 4509",
+                        "shortAddress": "13/1-19 Bowen Street"
+                    },
+                    "suburb": "Mango Hill",
+                    "state": "Qld",
+                    "postcode": "4509"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-qld-mango+hill-435730656"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a0890561da646d0fe48b944cfbf8cd43aced887c0909d0a1a85c4ff1b160dfce/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$470 per week"
+                },
+                "bond": {
+                    "display": "$1,880"
+                },
+                "availableDate": {
+                    "display": "Available 22 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435700348",
+                "address": {
+                    "display": {
+                        "fullAddress": "20 Horsetail Avenue, Truganina, Vic 3029",
+                        "shortAddress": "20 Horsetail Avenue"
+                    },
+                    "suburb": "Truganina",
+                    "state": "Vic",
+                    "postcode": "3029"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-truganina-435700348"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/3c03370e8236547a6a846a96641ee4c5a0a063370d8dd4acdedca683bdfddbbd/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "ENQUIRE NOW: $450 per week!"
+                },
+                "bond": {
+                    "display": "$1,955"
+                },
+                "availableDate": {
+                    "display": "Available 05 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "431735722",
+                "address": {
+                    "display": {
+                        "fullAddress": "1/2 Tarong Avenue, North Lakes, Qld 4509",
+                        "shortAddress": "1/2 Tarong Avenue"
+                    },
+                    "suburb": "North Lakes",
+                    "state": "Qld",
+                    "postcode": "4509"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-north+lakes-431735722"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/99fd718dde3e53f02e86ad73ab228b1790d36bb4ec1c68da015632f4a08af1e1/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$480 per week"
+                },
+                "bond": {
+                    "display": "$1,920"
+                },
+                "availableDate": {
+                    "display": "Available 12 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435606620",
+                "address": {
+                    "display": {
+                        "fullAddress": "53/10 Drovers Way, Lindfield, NSW 2070",
+                        "shortAddress": "53/10 Drovers Way"
+                    },
+                    "suburb": "Lindfield",
+                    "state": "NSW",
+                    "postcode": "2070"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-lindfield-435606620"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/30956ea41d78cf55e971a0a69d1a13f452c3943569528cce1f02b314642f5e2b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$1,100 Quick Rent Only"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "434947375",
+                "address": {
+                    "display": {
+                        "fullAddress": "3/8 Dunn Street, Broadmeadows, Vic 3047",
+                        "shortAddress": "3/8 Dunn Street"
+                    },
+                    "suburb": "Broadmeadows",
+                    "state": "Vic",
+                    "postcode": "3047"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-vic-broadmeadows-434947375"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/b4d3f3674cead41f4155417679f8b2349b734e16e9a59e3ded7c0f77e9c71f4f/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$430 per week"
+                },
+                "bond": {
+                    "display": "$1,868"
+                },
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435735072",
+                "address": {
+                    "display": {
+                        "fullAddress": "3/2 Adelaide Street, Murrumbeena, Vic 3163",
+                        "shortAddress": "3/2 Adelaide Street"
+                    },
+                    "suburb": "Murrumbeena",
+                    "state": "Vic",
+                    "postcode": "3163"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-murrumbeena-435735072"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a2fe1006e297210749c52d6e86b8e2812cf3f1ab00ec4f105199d1b15e87109b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$350 per week"
+                },
+                "bond": {
+                    "display": "$1,521"
+                },
+                "availableDate": {
+                    "display": "Available 01 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "434578487",
+                "address": {
+                    "display": {
+                        "fullAddress": "5/14 Leonard Avenue, Surfers Paradise, Qld 4217",
+                        "shortAddress": "5/14 Leonard Avenue"
+                    },
+                    "suburb": "Surfers Paradise",
+                    "state": "Qld",
+                    "postcode": "4217"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-qld-surfers+paradise-434578487"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f7b970b8496d353acd1d43e003d61967b4811967701f229e74fef5729ddb62c3/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$320 Per Week"
+                },
+                "bond": {
+                    "display": "$1,280"
+                },
+                "availableDate": {
+                    "display": "Available 23 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "427131058",
+                "address": {
+                    "display": {
+                        "fullAddress": "117/1 Linear Drive, Mango Hill, Qld 4509",
+                        "shortAddress": "117/1 Linear Drive"
+                    },
+                    "suburb": "Mango Hill",
+                    "state": "Qld",
+                    "postcode": "4509"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-qld-mango+hill-427131058"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ef45de565e47215268ebf6287e0166d7227955ddbcf39f28cf6f7c831c69880c/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$480 per week"
+                },
+                "bond": {
+                    "display": "$1,920"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435713048",
+                "address": {
+                    "display": {
+                        "fullAddress": "66/51 Playfield Street, Chermside, Qld 4032",
+                        "shortAddress": "66/51 Playfield Street"
+                    },
+                    "suburb": "Chermside",
+                    "state": "Qld",
+                    "postcode": "4032"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-qld-chermside-435713048"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/440e4d770181ff979dcd92aac8f6bf8b6f08437e4d3277cb598ff3a8417f6368/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$580 per week"
+                },
+                "bond": {
+                    "display": "$2,320"
+                },
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435738112",
+                "address": {
+                    "display": {
+                        "fullAddress": "28 Brunton Crescent, Mulgrave, Vic 3170",
+                        "shortAddress": "28 Brunton Crescent"
+                    },
+                    "suburb": "Mulgrave",
+                    "state": "Vic",
+                    "postcode": "3170"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-duplex+semi-detached-vic-mulgrave-435738112"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f6b8d62dbdb78c80aee3ad4c8a59030629c67a2b7553291a41dbc0a6b672494e/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 per week"
+                },
+                "bond": {
+                    "display": "$2,390"
+                },
+                "availableDate": {
+                    "display": "Available 06 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435627252",
+                "address": {
+                    "display": {
+                        "fullAddress": "56 Allinson Drive, Girrawheen, WA 6064",
+                        "shortAddress": "56 Allinson Drive"
+                    },
+                    "suburb": "Girrawheen",
+                    "state": "WA",
+                    "postcode": "6064"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-girrawheen-435627252"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/dbddf0d4fcfee5889a2ec3561439887a2c56305a688fb04bab2c2f883407d78b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 per week"
+                },
+                "bond": {
+                    "display": "$2,200"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435738624",
+                "address": {
+                    "display": {
+                        "fullAddress": "4603/157 A'beckett Street, Melbourne, Vic 3000",
+                        "shortAddress": "4603/157 A'beckett Street"
+                    },
+                    "suburb": "Melbourne",
+                    "state": "Vic",
+                    "postcode": "3000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-melbourne-435738624"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/261cf65f5668d398e1b355b362914796e94816fb8ccfb349b1a39071e06d33ac/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550/w Plus a Study Room"
+                },
+                "bond": {
+                    "display": "$2,389"
+                },
+                "availableDate": {
+                    "display": "Available 04 Jan 2023"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435637224",
+                "address": {
+                    "display": {
+                        "fullAddress": "205/108 Elliott Street, Balmain, NSW 2041",
+                        "shortAddress": "205/108 Elliott Street"
+                    },
+                    "suburb": "Balmain",
+                    "state": "NSW",
+                    "postcode": "2041"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-balmain-435637224"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/e74afdafd883ffa3c6dabd296bfde1229957d3aa43bbb2bac486f443c96df0c6/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$720 per week"
+                },
+                "bond": {
+                    "display": "$2,880"
+                },
+                "availableDate": {
+                    "display": "Available 12 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435728440",
+                "address": {
+                    "display": {
+                        "fullAddress": "21 Eagle Avenue, Burleigh Waters, Qld 4220",
+                        "shortAddress": "21 Eagle Avenue"
+                    },
+                    "suburb": "Burleigh Waters",
+                    "state": "Qld",
+                    "postcode": "4220"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-burleigh+waters-435728440"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f1ec646bb77f68ce0c53707ba32cdae9eff8664a45384f008c219545ac43e86b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$1190 neg pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 02 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 4
+                    },
+                    "bathrooms": {
+                        "value": 3
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435744372",
+                "address": {
+                    "display": {
+                        "fullAddress": "24 Bassett Lane, Rosewood, Qld 4340",
+                        "shortAddress": "24 Bassett Lane"
+                    },
+                    "suburb": "Rosewood",
+                    "state": "Qld",
+                    "postcode": "4340"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-rosewood-435744372"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/7e45b951a76a563b338d729c955e1b2adf565a0d0afc3090660dafb5d4b96437/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$430 pw"
+                },
+                "bond": {
+                    "display": "$1,720"
+                },
+                "availableDate": {
+                    "display": "Available 16 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 4
+                    }
+                }
+            },
+            {
+                "id": "435709552",
+                "address": {
+                    "display": {
+                        "fullAddress": "1/15 Yarrawood Avenue, Berrambool, NSW 2548",
+                        "shortAddress": "1/15 Yarrawood Avenue"
+                    },
+                    "suburb": "Berrambool",
+                    "state": "NSW",
+                    "postcode": "2548"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-villa-nsw-berrambool-435709552"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/54c10c7afdd20d3e275d9273821ca2b3b111502a20460e2ab3bdc29b51446219/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$400 per week"
+                },
+                "bond": {
+                    "display": "$1,600"
+                },
+                "availableDate": {
+                    "display": "Available 09 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "430062586",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/36 Binstead Drive, Southport, Qld 4215",
+                        "shortAddress": "2/36 Binstead Drive"
+                    },
+                    "suburb": "Southport",
+                    "state": "Qld",
+                    "postcode": "4215"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-southport-430062586"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/40000b3653fceb14e1700db5d519fcb40b275222a90565546403bcbe41b8ed77/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$450 Weekly"
+                },
+                "bond": {
+                    "display": "$1,800"
+                },
+                "availableDate": {
+                    "display": "Available 08 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435629348",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/1A George Street, Dubbo, NSW 2830",
+                        "shortAddress": "2/1A George Street"
+                    },
+                    "suburb": "Dubbo",
+                    "state": "NSW",
+                    "postcode": "2830"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-dubbo-435629348"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f881e1575611c2d8ad4add013f098a76e27504d2e342628cd2149704d9d217b1/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$410.00 per week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "430635082",
+                "address": {
+                    "display": {
+                        "fullAddress": "94 Atheldene Drive, St Albans, Vic 3021",
+                        "shortAddress": "94 Atheldene Drive"
+                    },
+                    "suburb": "St Albans",
+                    "state": "Vic",
+                    "postcode": "3021"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-st+albans-430635082"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/4ef6f0aae17946edd38f84783cdac55b029169f144fde4b009b4bbddd534d3b2/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$380 pw"
+                },
+                "bond": {
+                    "display": "$1,651"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 3
+                    }
+                }
+            },
+            {
+                "id": "435628536",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/16 Middleton Street, Black Rock, Vic 3193",
+                        "shortAddress": "2/16 Middleton Street"
+                    },
+                    "suburb": "Black Rock",
+                    "state": "Vic",
+                    "postcode": "3193"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-vic-black+rock-435628536"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/6f3ea22801e8a2c44b5efacc12328ab3e309c609323f13e6fa844ada2dd373c0/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$520 per week"
+                },
+                "bond": {
+                    "display": "$2,260"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435623032",
+                "address": {
+                    "display": {
+                        "fullAddress": "708/88 Hay Street, Haymarket, NSW 2000",
+                        "shortAddress": "708/88 Hay Street"
+                    },
+                    "suburb": "Haymarket",
+                    "state": "NSW",
+                    "postcode": "2000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-haymarket-435623032"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a1b753c09d5386c85a34587cccd958821372fde9e142cc1f103c376eb89934d4/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$850 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435720504",
+                "address": {
+                    "display": {
+                        "fullAddress": "2/4A Sovereign Close, Brassall, Qld 4305",
+                        "shortAddress": "2/4A Sovereign Close"
+                    },
+                    "suburb": "Brassall",
+                    "state": "Qld",
+                    "postcode": "4305"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-qld-brassall-435720504"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/571bc740905c4db6486816ab74fc148b5a11a478f871050975b0b1c4a5adc47b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$290 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 16 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435734080",
+                "address": {
+                    "display": {
+                        "fullAddress": "3/1 Reid Street, Oak Flats, NSW 2529",
+                        "shortAddress": "3/1 Reid Street"
+                    },
+                    "suburb": "Oak Flats",
+                    "state": "NSW",
+                    "postcode": "2529"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-villa-nsw-oak+flats-435734080"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/20200818321b2465870efc8a84166e2d21ebe3d320639386e2f958c70405620b/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$600 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "433958475",
+                "address": {
+                    "display": {
+                        "fullAddress": "4 Chapel Street, St Marys, NSW 2760",
+                        "shortAddress": "4 Chapel Street"
+                    },
+                    "suburb": "St Marys",
+                    "state": "NSW",
+                    "postcode": "2760"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-unit-nsw-st+marys-433958475"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/ae8c47ad035ad3685ea63fe28e66cc3cf0afeee4f0a477a23cab1fefb67a0c81/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$300 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "421879118",
+                "address": {
+                    "display": {
+                        "fullAddress": "20/145-147 Newcastle Street, Perth, WA 6000",
+                        "shortAddress": "20/145-147 Newcastle Street"
+                    },
+                    "suburb": "Perth",
+                    "state": "WA",
+                    "postcode": "6000"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-wa-perth-421879118"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/f1caf595e01771d662f73572c8e242a880c6b2adff28921661109180be62f761/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 per week"
+                },
+                "bond": {
+                    "display": "$2,200"
+                },
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435739724",
+                "address": {
+                    "display": {
+                        "fullAddress": "6/11 Stuart Street, Concord West, NSW 2138",
+                        "shortAddress": "6/11 Stuart Street"
+                    },
+                    "suburb": "Concord West",
+                    "state": "NSW",
+                    "postcode": "2138"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-studio-nsw-concord+west-435739724"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/a63d53a4c778416f4347794b5be03d64fc264c362938c784ba20e8200357d6ef/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$380 pw"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 19 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435681304",
+                "address": {
+                    "display": {
+                        "fullAddress": "3505/45 Clarke Street, Southbank, Vic 3006",
+                        "shortAddress": "3505/45 Clarke Street"
+                    },
+                    "suburb": "Southbank",
+                    "state": "Vic",
+                    "postcode": "3006"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-vic-southbank-435681304"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/dd6a324af523fe1382d8eb3494417252896c875eb3ea50c5f390826119f4ba15/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$500 per week"
+                },
+                "bond": {
+                    "display": "$2,172"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435738152",
+                "address": {
+                    "display": {
+                        "fullAddress": "23 Tuck St, Armadale, WA 6112",
+                        "shortAddress": "23 Tuck St"
+                    },
+                    "suburb": "Armadale",
+                    "state": "WA",
+                    "postcode": "6112"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-wa-armadale-435738152"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/bda9a71b8bf093b5efa0d68b770843a47fb7b2648224b15a02a81d76abf699d2/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$390 PER WEEK"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available 09 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435729352",
+                "address": {
+                    "display": {
+                        "fullAddress": "16 Bunroy St, Horningsea Park, NSW 2171",
+                        "shortAddress": "16 Bunroy St"
+                    },
+                    "suburb": "Horningsea Park",
+                    "state": "NSW",
+                    "postcode": "2171"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-nsw-horningsea+park-435729352"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/5d11e3200a8edecfa1da5699d01b314adc16609f756b095d1a615fb7003533f8/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 Weekly"
+                },
+                "bond": {
+                    "display": "$2,200"
+                },
+                "availableDate": {
+                    "display": "Available 30 Nov 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 2
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435620572",
+                "address": {
+                    "display": {
+                        "fullAddress": "7/18-24 Llewellyn Street, Merewether, NSW 2291",
+                        "shortAddress": "7/18-24 Llewellyn Street"
+                    },
+                    "suburb": "Merewether",
+                    "state": "NSW",
+                    "postcode": "2291"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-townhouse-nsw-merewether-435620572"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/783ab65061e10559bcbb81e9cc0e0deedc1e2f2a30f470a0cb7ccf3a4db944c9/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$650 pw"
+                },
+                "bond": {
+                    "display": "$2,600"
+                },
+                "availableDate": {
+                    "display": "Available 07 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 3
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            },
+            {
+                "id": "435638796",
+                "address": {
+                    "display": {
+                        "fullAddress": "66 Churchill Street, Morwell, Vic 3840",
+                        "shortAddress": "66 Churchill Street"
+                    },
+                    "suburb": "Morwell",
+                    "state": "Vic",
+                    "postcode": "3840"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-house-vic-morwell-435638796"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/1155a40221411437e55ef9e62a6499c8010132fb3894d9ecc4bd8f2392addeca/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$330 per week"
+                },
+                "bond": null,
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 2
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 2
+                    }
+                }
+            },
+            {
+                "id": "435520675",
+                "address": {
+                    "display": {
+                        "fullAddress": "16 Cumberland Street, Cessnock, NSW 2325",
+                        "shortAddress": "16 Cumberland Street"
+                    },
+                    "suburb": "Cessnock",
+                    "state": "NSW",
+                    "postcode": "2325"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-studio-nsw-cessnock-435520675"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/569dae77688c6825c5a27db8fd2679b0af6ea007446653418b3eda22f01394b2/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$330 Per Week"
+                },
+                "bond": {
+                    "display": "$1,320"
+                },
+                "availableDate": {
+                    "display": "Available now"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 0
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "id": "435625188",
+                "address": {
+                    "display": {
+                        "fullAddress": "813/45 Macquarie Street, Parramatta, NSW 2150",
+                        "shortAddress": "813/45 Macquarie Street"
+                    },
+                    "suburb": "Parramatta",
+                    "state": "NSW",
+                    "postcode": "2150"
+                },
+                "_links": {
+                    "canonical": {
+                        "path": "/property-apartment-nsw-parramatta-435625188"
+                    }
+                },
+                "media": {
+                    "mainImage": {
+                        "templatedUrl": "https://i2.au.reastatic.net/800x600-fit/41c8657c11d2f1d9442c52c83a2aa88045a0cd3f24654aecf33ab6823f03b11e/image.jpg"
+                    }
+                },
+                "price": {
+                    "display": "$550 Per Week"
+                },
+                "bond": {
+                    "display": "$2,200"
+                },
+                "availableDate": {
+                    "display": "Available 14 Dec 2022"
+                },
+                "generalFeatures": {
+                    "bedrooms": {
+                        "value": 1
+                    },
+                    "bathrooms": {
+                        "value": 1
+                    },
+                    "parkingSpaces": {
+                        "value": 1
+                    }
+                }
+            }
+        ]
+    }
+}
