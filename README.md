@@ -44,6 +44,8 @@ docker run --name <Your Name> -p 61000:61000 ps-clip-server
 
 ### 3. Try the client
 
+#### Run the jupyter notebook locally
+
 You can try the client with jupyter notebook
 
 ```Shell
@@ -52,3 +54,15 @@ jupyter notebook
 ```
 
 And open the file `client.ipynb` on jupyter notebook.
+
+#### Or you can Run the BFF
+
+```Shell
+python -m flask --app bff_server run -p <YOUR_PORT>
+```
+
+API:
+
+```
+<host>:<port>/search?key=<SEARCH_WORD>&limit=<RESULT_LIMIT>
+```
